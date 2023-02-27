@@ -1,0 +1,19 @@
+/* AIMS */
+/*Using my recipe project that I exclusively used html to write with, I am now attempting to add some style using CSS. I am writing this in one separate file using the external method. Furthermore, I can simplify and make it consistent by applying the same styles to elements across my website. */
+
+* {
+    font-family: Arial;
+    background-color: rgb(165, 243, 217);
+}
+
+.title {
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 800px;
+    
+}
